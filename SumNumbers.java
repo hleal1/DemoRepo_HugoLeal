@@ -12,6 +12,7 @@ public class SumNumbers {
 			int num1 = numbers[0];
 			int num2 = numbers[1];
 			System.out.println(num1 + "+" + num2 + "=" + sum(num1, num2));
+			System.out.println("SLB, o maior");
 			}
 		
 		//método para a soma dos dois números
